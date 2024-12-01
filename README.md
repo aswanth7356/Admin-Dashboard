@@ -1,8 +1,17 @@
-# React + Vite
+Admin Dashboard
+An Admin Dashboard built using React, designed to provide a clean, responsive, and functional interface for managing various administrative tasks.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
 
-Currently, two official plugins are available:
+    Responsive Design: Fully responsive layout that adapts to different screen sizes.
+    Search Functionality: A search icon for filtering or quick access to data.
+    Notification Panel: Includes icons for notifications, messages, and user profiles.
+    Modern UI: Utilizes react-icons for a sleek and consistent design.
+    Scalable Structure: Built with React's component-based architecture for easy scalability and maintenance.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    
+Tech Stack
+
+      Frontend: React
+      Styling: CSS, Responsive Design
+      Icons: React Icons
